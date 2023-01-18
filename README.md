@@ -16,5 +16,5 @@
 
     C-->D;
   test
-test
+  test
 ```
