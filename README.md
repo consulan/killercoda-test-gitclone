@@ -10,7 +10,7 @@
  ```mermaid
  graph TD;
     A-->B;
-    D<--A;
+    D-->A;
     B-->D;
   test
   test
