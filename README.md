@@ -1,8 +1,6 @@
 # ESTE ES UN ARCHIVO DE PRUEBAS
 
-## TITULO 2 modificado
-
-## ESTE ES UN SUBTITULO
+## LISTA DE COSAS POR HACER
  - Esta es una lista
  - Item 2
  - Item 3
