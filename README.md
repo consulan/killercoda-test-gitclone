@@ -1,3 +1,8 @@
 # ESTE ES UN ARCHIVO DE PRUEBAS
-PRUEBA
-prueba fisa
+```mermaid
+ graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
