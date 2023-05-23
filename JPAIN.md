@@ -1,1 +1,7 @@
-Prueba 01 CAP DBA
+```mermaid
+ graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
