@@ -1,1 +1,7 @@
-prueba caso practico
+```mermaid
+ graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
